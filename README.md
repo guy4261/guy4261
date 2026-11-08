@@ -8,7 +8,6 @@ This is where I share my projects, work, and ongoing learning.
 
 ## My repositories
 
-- [99bottles_python](https://github.com/guy4261/99bottles_python)
 - [ab2](https://github.com/guy4261/ab2)
 - [compasses-geometry](https://github.com/guy4261/compasses-geometry)
 - [fit](https://github.com/guy4261/fit)
