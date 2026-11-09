@@ -4,8 +4,7 @@ Welcome to my professional GitHub homepage.
 
 This is where I share my projects, work, and ongoing learning.
 
-Connect with me on
-- [GitHub](https://github.com/guy4261)
+Contact me on
 - [LinkedIn](https://www.linkedin.com/in/guy-rapaport-65857a56/)
 - `guy4261` at the Google mail service we all know and like.
 
@@ -17,11 +16,12 @@ Connect with me on
 Hobbyist projects by Codex and I.
 
 - [fit](https://github.com/guy4261/fit)
-- [ab2](https://github.com/guy4261/ab2)
-- [compasses-geometry](https://github.com/guy4261/compasses-geometry)
-- [UriahGrade4Math](https://github.com/guy4261/UriahGrade4Math)
+
+The fitness app I use in my strength training sessions.
+
 - [petek](https://github.com/guy4261/petek)
-- [hebweek](https://github.com/guy4261/hebweek)
+
+A tiny ballot-maker for the 2026 Israeli elections.
 
 
 ### Community Tools
@@ -29,7 +29,12 @@ Hobbyist projects by Codex and I.
 Used by my friends who manage WhatsApp groups/communities.
 
 - [unchar](https://github.com/guy4261/unchar)
+
+Remove unprintable characters off a text.
+
 - [phonphon](https://github.com/guy4261/phonphon)
+
+Break down phone numbers in the different ways a Google search will find them.
 
 
 ### `polkadot`
@@ -45,10 +50,32 @@ Nowadays focused on the theory rather than the code.
 ### Nokia-Related
 
 Testing what subsets of HTML/JavaScript can be used on Nokia phones, 
-while also passing the Opera Mini caching system.
+while also passing the Opera Mini caching system. Part of the [`nokia1` initiative](https://t.ly/nokia1).
 
 - [omini](https://github.com/guy4261/omini)
 - [opera-mini-checks](https://github.com/guy4261/opera-mini-checks)
+
+
+### Children
+
+Educational (hopefully) games I made for my children and their classmates.
+
+- [ab2](https://github.com/guy4261/ab2)
+
+Learn to read by practicing on two letters with a single niqqud.
+
+- [compasses-geometry](https://github.com/guy4261/compasses-geometry)
+
+Practice ruler-and-compass geometry, Euclid-style. 
+
+- [UriahGrade4Math](https://github.com/guy4261/UriahGrade4Math)
+
+An app for math exercises that invites others to take its prompts
+(and hopefully contribute some of their own).
+
+- [hebweek](https://github.com/guy4261/hebweek)
+
+Celebrating the Hebrew Week with a words-in-word finder utility.
 
 
 ### GraphLab Training Materials
