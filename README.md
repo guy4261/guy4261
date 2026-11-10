@@ -19,6 +19,10 @@ Hobbyist projects by Codex and I.
 
 The fitness app I use in my strength training sessions.
 
+- [codex-comm-inspector](https://github.com/guy4261/codex-comm-inspector)
+
+A tool for inspecting Codex communication logs for fun and profit.
+
 - [petek](https://github.com/guy4261/petek)
 
 A tiny ballot-maker for the 2026 Israeli elections.
